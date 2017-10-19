@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ed2c571-f6ee-4022-b43e-9a281f8b265c" name="ec_ci3" url="http://ec_ci3.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
