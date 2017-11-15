@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1205</Count>
+          <Count>1210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -173,7 +173,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Open Console</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
