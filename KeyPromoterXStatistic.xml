@@ -94,7 +94,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -119,6 +119,14 @@
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Generate DDL to Clipboard</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate DDL to Console">
+        <Item>
+          <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
+          <Description>Generate DDL to Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -356,7 +364,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
